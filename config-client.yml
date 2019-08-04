@@ -14,6 +14,6 @@ spring:
   profiles: dev
 server:
   port: 8092
-foo: foo version 8092---------woshi update
+foo: foo version 8092---------woshi updatepppppppp---
 
 
