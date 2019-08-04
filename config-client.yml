@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: dev
+
+---
+spring:
+  profiles: test
+server:
+  port: 8093
+foo: foo version 8093
+
+---
+spring:
+  profiles: dev
+server:
+  port: 8092
+foo: foo version 8092
+
+
